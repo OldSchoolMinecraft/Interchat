@@ -1,0 +1,6 @@
+name: Interchat
+version: 1.0
+author: moderator_man
+main: net.oldschoolminecraft.ic.Interchat
+depend:
+  - Essentials
